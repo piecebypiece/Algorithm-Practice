@@ -30,3 +30,18 @@
 *.exe
 *.out
 *.app
+
+
+#User Setting
+*.user
+*.user.props
+*.user.targets
+
+#Bash
+*.sbr
+*.log
+*.lastbuildstate
+
+#Temp
+*~
+*.swp
